@@ -13,3 +13,4 @@ int main(){
     book.revenue = book.bookSaleNum * book.price;
     std::cout << "ISBN：" << book.ISBN << "书名" << book.bookName << "价格" << book.price << "销量" << book.bookSaleNum << "总价格" << book.revenue << std::endl;
 }
+//
